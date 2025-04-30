@@ -1,0 +1,7 @@
+[package]
+name = "rustdoor_demo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+whoami = "1.4"
